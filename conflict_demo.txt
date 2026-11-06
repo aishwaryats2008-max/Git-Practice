@@ -1,1 +1,1 @@
-robot is ready
+robot started by developer A
